@@ -1,0 +1,14 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "watch": true,
+    "sourceMap": true,
+    "typeRoots": ["node_modules/@types"],
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true
+  },
+  "include": ["typings.d.ts", "server/**/*.ts"],
+  "exclude": ["node_modules"]
+}
