@@ -1,8 +1,8 @@
-# myapp
+# starter-node-api
 
-My boilerplate NodeJS + Express + TypeScript app
+NodeJS + Express + TypeScript api
 
-A simple boilerplate app with GET, PUT, POST, and DELETE endpoints for users and tasks
+A simple app with GET, PUT, POST, and DELETE endpoints for users and tasks
 
 ## Install It
 ```
